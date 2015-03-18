@@ -3,7 +3,7 @@ import unip.programa.config.Config;
 import unip.programa.grafico.JanelaEntrada;
 
 public class Main {
-
+   //Teste
 	public static void main(String args[]) throws InterruptedException {
 		/*
 		 * byte[] textoencriptado =
